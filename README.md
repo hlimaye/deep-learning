@@ -1,5 +1,5 @@
 # deep-learning
-# This is a repo for 5 projects from the Deep Learning Nanodegree Program
+This is a repo for 5 projects from the Deep Learning Nanodegree Program
 
 Project 1 - Your First Neural Network
 Build a simple network to make predictions of bike sharing usage.
